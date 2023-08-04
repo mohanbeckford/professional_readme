@@ -1,5 +1,6 @@
 
   # Mohan's App
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
   ## Description
   Mohan's App is a versatile and user-friendly mobile application designed to enhance productivity, organization, and seamless communication for individuals and teams. Inspired by the need for a comprehensive and integrated solution to streamline everyday tasks, the app brings together a range of features tailored to meet various personal and professional needs.
